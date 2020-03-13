@@ -1,0 +1,11 @@
+C:\Users\103186026\Documents\GitHub\Introtoprogrammingtechniques\obj\Debug\netcoreapp3.1\Introtoprogrammingtechniques.csprojAssemblyReference.cache
+C:\Users\103186026\Documents\GitHub\Introtoprogrammingtechniques\obj\Debug\netcoreapp3.1\Introtoprogrammingtechniques.AssemblyInfoInputs.cache
+C:\Users\103186026\Documents\GitHub\Introtoprogrammingtechniques\obj\Debug\netcoreapp3.1\Introtoprogrammingtechniques.AssemblyInfo.cs
+C:\Users\103186026\Documents\GitHub\Introtoprogrammingtechniques\bin\Debug\netcoreapp3.1\Introtoprogrammingtechniques.exe
+C:\Users\103186026\Documents\GitHub\Introtoprogrammingtechniques\bin\Debug\netcoreapp3.1\Introtoprogrammingtechniques.deps.json
+C:\Users\103186026\Documents\GitHub\Introtoprogrammingtechniques\bin\Debug\netcoreapp3.1\Introtoprogrammingtechniques.runtimeconfig.json
+C:\Users\103186026\Documents\GitHub\Introtoprogrammingtechniques\bin\Debug\netcoreapp3.1\Introtoprogrammingtechniques.runtimeconfig.dev.json
+C:\Users\103186026\Documents\GitHub\Introtoprogrammingtechniques\bin\Debug\netcoreapp3.1\Introtoprogrammingtechniques.dll
+C:\Users\103186026\Documents\GitHub\Introtoprogrammingtechniques\bin\Debug\netcoreapp3.1\Introtoprogrammingtechniques.pdb
+C:\Users\103186026\Documents\GitHub\Introtoprogrammingtechniques\obj\Debug\netcoreapp3.1\Introtoprogrammingtechniques.dll
+C:\Users\103186026\Documents\GitHub\Introtoprogrammingtechniques\obj\Debug\netcoreapp3.1\Introtoprogrammingtechniques.pdb
